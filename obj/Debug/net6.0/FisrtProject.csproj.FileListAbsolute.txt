@@ -1,0 +1,15 @@
+C:\Bridgelabz\FisrtProject\FisrtProject\obj\Debug\net6.0\FisrtProject.csproj.AssemblyReference.cache
+C:\Bridgelabz\FisrtProject\FisrtProject\obj\Debug\net6.0\FisrtProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bridgelabz\FisrtProject\FisrtProject\obj\Debug\net6.0\FisrtProject.AssemblyInfoInputs.cache
+C:\Bridgelabz\FisrtProject\FisrtProject\obj\Debug\net6.0\FisrtProject.AssemblyInfo.cs
+C:\Bridgelabz\FisrtProject\FisrtProject\obj\Debug\net6.0\FisrtProject.csproj.CoreCompileInputs.cache
+C:\Bridgelabz\FisrtProject\FisrtProject\bin\Debug\net6.0\FisrtProject.exe
+C:\Bridgelabz\FisrtProject\FisrtProject\bin\Debug\net6.0\FisrtProject.deps.json
+C:\Bridgelabz\FisrtProject\FisrtProject\bin\Debug\net6.0\FisrtProject.runtimeconfig.json
+C:\Bridgelabz\FisrtProject\FisrtProject\bin\Debug\net6.0\FisrtProject.dll
+C:\Bridgelabz\FisrtProject\FisrtProject\bin\Debug\net6.0\FisrtProject.pdb
+C:\Bridgelabz\FisrtProject\FisrtProject\obj\Debug\net6.0\FisrtProject.dll
+C:\Bridgelabz\FisrtProject\FisrtProject\obj\Debug\net6.0\refint\FisrtProject.dll
+C:\Bridgelabz\FisrtProject\FisrtProject\obj\Debug\net6.0\FisrtProject.pdb
+C:\Bridgelabz\FisrtProject\FisrtProject\obj\Debug\net6.0\FisrtProject.genruntimeconfig.cache
+C:\Bridgelabz\FisrtProject\FisrtProject\obj\Debug\net6.0\ref\FisrtProject.dll
